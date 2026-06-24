@@ -1,0 +1,354 @@
+category	subcategory	ID	Description	GeneRatio	BgRatio	RichFactor	FoldEnrichment	zScore	pvalue	p.adjust	qvalue	geneID	Count
+Organismal Systems	Development and regeneration	hsa04382	Cornified envelope formation	12/63	216/8790	0.0555555555555556	7.75132275132275	8.53555028419531	3.16260467891098e-08	1.11639945165558e-05	1.11639945165558e-05	6699/51702/6707/286887/3853/3854/1830/9119/5522/3868/26154/29943	12
+Environmental Information Processing	Signaling molecules and interaction	hsa04519	Cadherin signaling	9/63	402/8790	0.0223880597014925	3.12366737739872	3.70320564960043	0.00211101094839488	0.372593432391696	0.372593432391696	2556/286887/3853/3854/1830/9119/3868/124590/55879	9
+Environmental Information Processing	Signaling molecules and interaction	hsa04080	Neuroactive ligand-receptor interaction	8/63	371/8790	0.0215633423180593	3.00859966628161	3.3585947534842	0.00474305177304138	0.558099091961202	0.558099091961202	1143/2556/387129/84634/90226/51083/10874/55879	8
+Environmental Information Processing	Signaling molecules and interaction	hsa04082	Neuroactive ligand signaling	5/63	199/8790	0.0251256281407035	3.50562335486959	3.0375818286565	0.0137512087137837	0.678897040648081	0.678897040648081	1143/2556/3359/2792/55879	5
+Metabolism	Metabolism of cofactors and vitamins	hsa00790	Folate biosynthesis	2/63	28/8790	0.0714285714285714	9.96598639455782	4.03722529595627	0.016953190885598	0.678897040648081	0.678897040648081	57016/441282	2
+Organismal Systems	Sensory system	hsa04744	Phototransduction	2/63	28/8790	0.0714285714285714	9.96598639455782	4.03722529595627	0.016953190885598	0.678897040648081	0.678897040648081	810/2792	2
+Cellular Processes	Cellular community - eukaryotes	hsa04550	Signaling pathways regulating pluripotency of stem cells	4/63	144/8790	0.0277777777777778	3.87566137566138	2.95609844970094	0.0195160699297258	0.678897040648081	0.678897040648081	64211/5013/1852/3175	4
+Metabolism	Carbohydrate metabolism	hsa00052	Galactose metabolism	2/63	32/8790	0.0625	8.72023809523809	3.71715552332784	0.021842191812996	0.678897040648081	0.678897040648081	57016/441282	2
+Organismal Systems	Nervous system	hsa04727	GABAergic synapse	3/63	89/8790	0.0337078651685393	4.70304975922953	2.98316644808851	0.0257575085094703	0.678897040648081	0.678897040648081	2556/2792/55879	3
+Metabolism	Carbohydrate metabolism	hsa00040	Pentose and glucuronate interconversions	2/63	35/8790	0.0571428571428571	7.97278911564626	3.51172093458079	0.0258454228729857	0.678897040648081	0.678897040648081	57016/441282	2
+Metabolism	Carbohydrate metabolism	hsa00051	Fructose and mannose metabolism	2/63	36/8790	0.0555555555555556	7.75132275132275	3.44861226500312	0.0272412293354547	0.678897040648081	0.678897040648081	57016/441282	2
+Human Diseases	Substance dependence	hsa05032	Morphine addiction	3/63	91/8790	0.032967032967033	4.59968602825746	2.93263607157131	0.0272792659240901	0.678897040648081	0.678897040648081	2556/2792/55879	3
+Human Diseases	Cancer: overview	hsa05206	MicroRNAs in cancer	6/63	323/8790	0.0185758513931889	2.59177355152587	2.4764255982451	0.0275708673329096	0.678897040648081	0.678897040648081	995/1591/8091/10642/1943/5268	6
+Organismal Systems	Immune system	hsa04657	IL-17 signaling pathway	3/63	93/8790	0.032258064516129	4.50076804915515	2.88355072017867	0.0288483161748476	0.678897040648081	0.678897040648081	4322/4314/4312	3
+Organismal Systems	Digestive system	hsa04970	Salivary secretion	3/63	93/8790	0.032258064516129	4.50076804915515	2.88355072017867	0.0288483161748476	0.678897040648081	0.678897040648081	1469/810/1472	3
+Human Diseases	Substance dependence	hsa05033	Nicotine addiction	2/63	41/8790	0.0487804878048781	6.80603948896632	3.16592209906676	0.0346587731690735	0.764659183042684	0.764659183042684	2556/55879	2
+Organismal Systems	Endocrine system	hsa04926	Relaxin signaling pathway	3/63	130/8790	0.0230769230769231	3.21978021978022	2.16635799498256	0.0661550860494103	1	1	4322/2792/4312	3
+Organismal Systems	Nervous system	hsa04728	Dopaminergic synapse	3/63	133/8790	0.0225563909774436	3.14715359828142	2.11988715739361	0.0698351090589497	1	1	810/2792/5522	3
+Metabolism	Lipid metabolism	hsa00561	Glycerolipid metabolism	2/63	66/8790	0.0303030303030303	4.22799422799423	2.23642535729401	0.0809828755345792	1	1	57016/441282	2
+Organismal Systems	Nervous system	hsa04723	Retrograde endocannabinoid signaling	3/63	149/8790	0.0201342281879195	2.80920421860019	1.89237081854911	0.0909680394315839	1	1	2556/2792/55879	3
+Metabolism	Energy metabolism	hsa00910	Nitrogen metabolism	1/63	17/8790	0.0588235294117647	8.20728291316527	2.52714106602107	0.115199933590835	1	1	768	1
+Organismal Systems	Sensory system	hsa04742	Taste transduction	2/63	85/8790	0.0235294117647059	3.28291316526611	1.79689204792901	0.123829800970081	1	1	2556/3359	2
+Human Diseases	Immune disease	hsa05323	Rheumatoid arthritis	2/63	89/8790	0.0224719101123595	3.13536650615302	1.72024523830678	0.133444804060801	1	1	4314/4312	2
+Metabolism	Lipid metabolism	hsa00100	Steroid biosynthesis	1/63	20/8790	0.05	6.97619047619048	2.27324974588441	0.134127096491205	1	1	1591	1
+Organismal Systems	Environmental adaptation	hsa04713	Circadian entrainment	2/63	97/8790	0.0206185567010309	2.87677957781051	1.57914429372521	0.153154655176449	1	1	810/2792	2
+Human Diseases	Substance dependence	hsa05034	Alcoholism	3/63	189/8790	0.0158730158730159	2.21466364323507	1.43423388811788	0.153388853603444	1	1	810/8345/2792	3
+Organismal Systems	Sensory system	hsa04750	Inflammatory mediator regulation of TRP channels	2/63	99/8790	0.0202020202020202	2.81866281866282	1.54611726331017	0.158170111096316	1	1	79054/810	2
+Human Diseases	Cancer: overview	hsa05202	Transcriptional misregulation in cancer	3/63	198/8790	0.0151515151515152	2.11399711399711	1.34702931006369	0.168971675666154	1	1	8091/3206/4314	3
+Human Diseases	Endocrine and metabolic disease	hsa04950	Maturity onset diabetes of the young	1/63	26/8790	0.0384615384615385	5.36630036630037	1.89433427357257	0.170793918134718	1	1	3175	1
+Metabolism	Carbohydrate metabolism	hsa00053	Ascorbate and aldarate metabolism	1/63	29/8790	0.0344827586206897	4.8111658456486	1.74657615055559	0.188549931057527	1	1	55586	1
+Organismal Systems	Nervous system	hsa04726	Serotonergic synapse	2/63	112/8790	0.0178571428571429	2.49149659863946	1.34967428887194	0.191451731785374	1	1	3359/2792	2
+Human Diseases	Infectious disease: viral	hsa05170	Human immunodeficiency virus 1 infection	3/63	212/8790	0.0141509433962264	1.9743935309973	1.22016010371159	0.19408152396251	1	1	995/810/2792	3
+Human Diseases	Cardiovascular disease	hsa05417	Lipid and atherosclerosis	3/63	214/8790	0.014018691588785	1.95594125500668	1.20282715479541	0.197745239833304	1	1	810/4314/4312	3
+Organismal Systems	Nervous system	hsa04725	Cholinergic synapse	2/63	115/8790	0.0173913043478261	2.42650103519669	1.30825917316906	0.199268350406663	1	1	1143/2792	2
+Organismal Systems	Endocrine system	hsa04928	Parathyroid hormone synthesis, secretion and action	2/63	115/8790	0.0173913043478261	2.42650103519669	1.30825917316906	0.199268350406663	1	1	4322/1591	2
+Metabolism	Global and overview maps	hsa01250	Biosynthesis of nucleotide sugars	1/63	37/8790	0.027027027027027	3.77091377091377	1.43500339254126	0.234090376536424	1	1	55586	1
+Environmental Information Processing	Signal transduction	hsa04014	Ras signaling pathway	3/63	237/8790	0.0126582278481013	1.76612417118746	1.01583137071215	0.240985892935858	1	1	810/1943/2792	3
+Human Diseases	Cancer: specific types	hsa05219	Bladder cancer	1/63	41/8790	0.024390243902439	3.40301974448316	1.31032062871957	0.255907787268833	1	1	4312	1
+Environmental Information Processing	Signal transduction	hsa04151	PI3K-Akt signaling pathway	4/63	361/8790	0.0110803324099723	1.54597018862947	0.899998991473514	0.258956572313656	1	1	3381/1943/2792/5522	4
+Cellular Processes	Cell growth and death	hsa04114	Oocyte meiosis	2/63	138/8790	0.0144927536231884	2.02208419599724	1.02819498162141	0.260146602824372	1	1	995/810	2
+Organismal Systems	Endocrine system	hsa04915	Estrogen signaling pathway	2/63	138/8790	0.0144927536231884	2.02208419599724	1.02819498162141	0.260146602824372	1	1	810/3868	2
+Environmental Information Processing	Signal transduction	hsa04371	Apelin signaling pathway	2/63	139/8790	0.0143884892086331	2.00753682768071	1.01728512133731	0.262813438333994	1	1	810/2792	2
+Genetic Information Processing	Replication and repair	hsa03410	Base excision repair	1/63	44/8790	0.0227272727272727	3.17099567099567	1.22655796825322	0.271868357513073	1	1	55247	1
+Metabolism	Glycan biosynthesis and metabolism	hsa00513	Various types of N-glycan biosynthesis	1/63	45/8790	0.0222222222222222	3.1005291005291	1.20022473170745	0.277113303028357	1	1	338707	1
+Environmental Information Processing	Membrane transport	hsa02010	ABC transporters	1/63	45/8790	0.0222222222222222	3.1005291005291	1.20022473170745	0.277113303028357	1	1	26154	1
+Organismal Systems	Circulatory system	hsa04261	Adrenergic signaling in cardiomyocytes	2/63	154/8790	0.012987012987013	1.81199752628324	0.863706660627438	0.302786985777862	1	1	810/5522	2
+Environmental Information Processing	Signaling molecules and interaction	hsa04517	IgSF CAM signaling	3/63	298/8790	0.0100671140939597	1.4046021093001	0.603724500425606	0.360747145802562	1	1	26280/10381/57524	3
+Environmental Information Processing	Signal transduction	hsa04330	Notch signaling pathway	1/63	63/8790	0.0158730158730159	2.21466364323507	0.822055876575603	0.365408222009414	1	1	10683	1
+Organismal Systems	Endocrine system	hsa04929	GnRH secretion	1/63	65/8790	0.0153846153846154	2.14652014652015	0.78824853087765	0.374537877460156	1	1	84634	1
+Organismal Systems	Nervous system	hsa04720	Long-term potentiation	1/63	67/8790	0.0149253731343284	2.08244491826581	0.755644959923564	0.383538242965532	1	1	810	1
+Organismal Systems	Endocrine system	hsa04924	Renin secretion	1/63	69/8790	0.0144927536231884	2.02208419599724	0.724161770620906	0.392411120350346	1	1	810	1
+Human Diseases	Substance dependence	hsa05031	Amphetamine addiction	1/63	69/8790	0.0144927536231884	2.02208419599724	0.724161770620906	0.392411120350346	1	1	810	1
+Human Diseases	Infectious disease: viral	hsa05167	Kaposi sarcoma-associated herpesvirus infection	2/63	196/8790	0.0102040816326531	1.42371234207969	0.509693381840946	0.411866075083986	1	1	810/2792	2
+Cellular Processes	Cell growth and death	hsa04115	p53 signaling pathway	1/63	75/8790	0.0133333333333333	1.86031746031746	0.63571607310301	0.418282473452211	1	1	5268	1
+Organismal Systems	Endocrine system	hsa03320	PPAR signaling pathway	1/63	76/8790	0.0131578947368421	1.83583959899749	0.621768161872084	0.422487660391111	1	1	4312	1
+Organismal Systems	Digestive system	hsa04971	Gastric acid secretion	1/63	76/8790	0.0131578947368421	1.83583959899749	0.621768161872084	0.422487660391111	1	1	810	1
+Human Diseases	Infectious disease: bacterial	hsa05133	Pertussis	1/63	76/8790	0.0131578947368421	1.83583959899749	0.621768161872084	0.422487660391111	1	1	810	1
+Human Diseases	Cancer: specific types	hsa05214	Glioma	1/63	76/8790	0.0131578947368421	1.83583959899749	0.621768161872084	0.422487660391111	1	1	810	1
+Human Diseases	Infectious disease: viral	hsa05165	Human papillomavirus infection	3/63	332/8790	0.00903614457831325	1.26075731497418	0.411508889031363	0.427165311215562	1	1	3381/7015/5522	3
+Metabolism	Carbohydrate metabolism	hsa00562	Inositol phosphate metabolism	1/63	78/8790	0.0128205128205128	1.78876678876679	0.594489930869734	0.430808484182819	1	1	55586	1
+Environmental Information Processing	Signal transduction	hsa04015	Rap1 signaling pathway	2/63	212/8790	0.00943396226415094	1.3162623539982	0.396031679581816	0.45137186820625	1	1	810/1943	2
+Human Diseases	Cancer: overview	hsa05207	Chemical carcinogenesis - receptor activation	2/63	214/8790	0.00934579439252336	1.30396083667112	0.382463196799471	0.456208844322721	1	1	1143/10683	2
+Environmental Information Processing	Signaling molecules and interaction	hsa04081	Hormone signaling	2/63	219/8790	0.0091324200913242	1.27419004131333	0.349112585858368	0.468196972782904	1	1	90226/2792	2
+Human Diseases	Infectious disease: bacterial	hsa05150	Staphylococcus aureus infection	1/63	88/8790	0.0113636363636364	1.58549783549784	0.468991108892905	0.4706750445695	1	1	3868	1
+Environmental Information Processing	Signaling molecules and interaction	hsa04512	ECM-receptor interaction	1/63	89/8790	0.0112359550561798	1.56768325307651	0.457324028525056	0.474507206393462	1	1	3381	1
+Cellular Processes	Cellular community - eukaryotes	hsa04540	Gap junction	1/63	89/8790	0.0112359550561798	1.56768325307651	0.457324028525056	0.474507206393462	1	1	10381	1
+Organismal Systems	Immune system	hsa04658	Th1 and Th2 cell differentiation	1/63	90/8790	0.0111111111111111	1.55026455026455	0.445800634753819	0.47831206169713	1	1	10683	1
+Human Diseases	Infectious disease: viral	hsa05163	Human cytomegalovirus infection	2/63	225/8790	0.00888888888888889	1.24021164021164	0.310119548539595	0.482380666572335	1	1	810/2792	2
+Organismal Systems	Endocrine system	hsa04912	GnRH signaling pathway	1/63	93/8790	0.010752688172043	1.50025601638505	0.412056319089449	0.489564696487611	1	1	810	1
+Human Diseases	Drug resistance: antineoplastic	hsa01522	Endocrine resistance	1/63	96/8790	0.0104166666666667	1.45337301587302	0.379480081806916	0.500578386386111	1	1	10683	1
+Human Diseases	Infectious disease: viral	hsa05171	Coronavirus disease	2/63	234/8790	0.00854700854700855	1.19251119251119	0.253592289121129	0.50322801856861	1	1	4314/4312	2
+Environmental Information Processing	Signal transduction	hsa04070	Phosphatidylinositol signaling system	1/63	98/8790	0.0102040816326531	1.42371234207969	0.358370136825885	0.507790569463822	1	1	810	1
+Organismal Systems	Endocrine system	hsa04925	Aldosterone synthesis and secretion	1/63	98/8790	0.0102040816326531	1.42371234207969	0.358370136825885	0.507790569463822	1	1	810	1
+Organismal Systems	Endocrine system	hsa04916	Melanogenesis	1/63	101/8790	0.0099009900990099	1.38142385667138	0.327560224696875	0.518417064342513	1	1	810	1
+Human Diseases	Infectious disease: parasitic	hsa05142	Chagas disease	1/63	102/8790	0.00980392156862745	1.36788048552754	0.31750783725126	0.521908803892107	1	1	5522	1
+Human Diseases	Infectious disease: parasitic	hsa05146	Amoebiasis	1/63	102/8790	0.00980392156862745	1.36788048552754	0.31750783725126	0.521908803892107	1	1	6318	1
+Genetic Information Processing	Translation	hsa03015	mRNA surveillance pathway	1/63	103/8790	0.00970873786407767	1.35460009246417	0.30756015073939	0.525375625410846	1	1	5522	1
+Organismal Systems	Digestive system	hsa04974	Protein digestion and absorption	1/63	103/8790	0.00970873786407767	1.35460009246417	0.30756015073939	0.525375625410846	1	1	1301	1
+Organismal Systems	Immune system	hsa04625	C-type lectin receptor signaling pathway	1/63	105/8790	0.00952380952380952	1.32879818594104	0.287969617734449	0.532235213043434	1	1	810	1
+Human Diseases	Cancer: specific types	hsa05215	Prostate cancer	1/63	106/8790	0.00943396226415094	1.3162623539982	0.278322324792839	0.535628325487679	1	1	4314	1
+Organismal Systems	Endocrine system	hsa04922	Glucagon signaling pathway	1/63	107/8790	0.00934579439252336	1.30396083667112	0.268770833776111	0.538997212578222	1	1	810	1
+Environmental Information Processing	Signal transduction	hsa04350	TGF-beta signaling pathway	1/63	109/8790	0.00917431192660551	1.28003494975972	0.249947114070406	0.545662990275979	1	1	5308	1
+Organismal Systems	Endocrine system	hsa04914	Progesterone-mediated oocyte maturation	1/63	110/8790	0.00909090909090909	1.26839826839827	0.240670970125052	0.548960217739706	1	1	995	1
+Organismal Systems	Nervous system	hsa04724	Glutamatergic synapse	1/63	116/8790	0.00862068965517241	1.20279146141215	0.186799826985451	0.568254752115783	1	1	2792	1
+Human Diseases	Neurodegenerative disease	hsa05012	Parkinson disease	2/63	268/8790	0.00746268656716418	1.04122245913291	0.0582288277654475	0.577065773933498	1	1	810/10381	2
+Environmental Information Processing	Signal transduction	hsa04668	TNF signaling pathway	1/63	119/8790	0.00840336134453781	1.17246898759504	0.160937562951761	0.577595067203738	1	1	4314	1
+Organismal Systems	Nervous system	hsa04722	Neurotrophin signaling pathway	1/63	120/8790	0.00833333333333333	1.16269841269841	0.152465614750102	0.580664091626084	1	1	810	1
+Organismal Systems	Immune system	hsa04660	T cell receptor signaling pathway	1/63	121/8790	0.00826446280991736	1.15308933490752	0.144065714985036	0.583711169160981	1	1	5522	1
+Environmental Information Processing	Signal transduction	hsa04152	AMPK signaling pathway	1/63	122/8790	0.00819672131147541	1.14363778298205	0.135736509267318	0.586736454239175	1	1	5522	1
+Environmental Information Processing	Signal transduction	hsa04071	Sphingolipid signaling pathway	1/63	125/8790	0.008	1.11619047619048	0.111160060266772	0.595683083050031	1	1	5522	1
+Organismal Systems	Immune system	hsa04650	Natural killer cell mediated cytotoxicity	1/63	125/8790	0.008	1.11619047619048	0.111160060266772	0.595683083050031	1	1	154064	1
+Organismal Systems	Circulatory system	hsa04270	Vascular smooth muscle contraction	1/63	134/8790	0.00746268656716418	1.04122245913291	0.0408540569919434	0.621394838810948	1	1	810	1
+Human Diseases	Immune disease	hsa05322	Systemic lupus erythematosus	1/63	135/8790	0.00740740740740741	1.03350970017637	0.0333358404746596	0.624150398556202	1	1	8345	1
+Environmental Information Processing	Signaling molecules and interaction	hsa04060	Cytokine-cytokine receptor interaction	2/63	296/8790	0.00675675675675676	0.942728442728443	-0.085160114828396	0.63177592403361	1	1	26525/56300	2
+Organismal Systems	Endocrine system	hsa04910	Insulin signaling pathway	1/63	138/8790	0.0072463768115942	1.01104209799862	0.0111081159391914	0.632299196844559	1	1	810	1
+Environmental Information Processing	Signal transduction	hsa04010	MAPK signaling pathway	2/63	300/8790	0.00666666666666667	0.93015873015873	-0.104574652054288	0.639136897583298	1	1	1852/1943	2
+Human Diseases	Cardiovascular disease	hsa05418	Fluid shear stress and atherosclerosis	1/63	141/8790	0.00709219858156028	0.989530563998649	-0.0106477393955734	0.640274065367853	1	1	810	1
+Human Diseases	Cancer: specific types	hsa05224	Breast cancer	1/63	148/8790	0.00675675675675676	0.942728442728443	-0.0596994373254162	0.658226081480938	1	1	10683	1
+Human Diseases	Cancer: specific types	hsa05226	Gastric cancer	1/63	150/8790	0.00666666666666667	0.93015873015873	-0.073300747639457	0.663191254047721	1	1	7015	1
+Environmental Information Processing	Signaling molecules and interaction	hsa04518	Integrin signaling	1/63	154/8790	0.00649350649350649	0.90599876314162	-0.0999873666529858	0.672909587221459	1	1	3381	1
+Organismal Systems	Endocrine system	hsa04921	Oxytocin signaling pathway	1/63	154/8790	0.00649350649350649	0.90599876314162	-0.0999873666529858	0.672909587221459	1	1	810	1
+Human Diseases	Infectious disease: viral	hsa05160	Hepatitis C	1/63	156/8790	0.00641025641025641	0.894383394383394	-0.113082656360121	0.677664732457945	1	1	5522	1
+Cellular Processes	Cell growth and death	hsa04218	Cellular senescence	1/63	157/8790	0.00636942675159236	0.888686684865029	-0.119570375149827	0.680016727113394	1	1	810	1
+Environmental Information Processing	Signal transduction	hsa04390	Hippo signaling pathway	1/63	157/8790	0.00636942675159236	0.888686684865029	-0.119570375149827	0.680016727113394	1	1	5522	1
+Cellular Processes	Cell growth and death	hsa04110	Cell cycle	1/63	158/8790	0.00632911392405063	0.883062085593731	-0.126018901776028	0.682351830344236	1	1	995	1
+Environmental Information Processing	Signal transduction	hsa04022	cGMP-PKG signaling pathway	1/63	165/8790	0.00606060606060606	0.845598845598845	-0.170106332898236	0.698234516064903	1	1	810	1
+Environmental Information Processing	Signal transduction	hsa04630	JAK-STAT signaling pathway	1/63	168/8790	0.00595238095238095	0.830498866213152	-0.188465021389858	0.704799688769328	1	1	116379	1
+Human Diseases	Cancer: specific types	hsa05225	Hepatocellular carcinoma	1/63	169/8790	0.00591715976331361	0.825584671738518	-0.194516612801701	0.706956684780409	1	1	7015	1
+Cellular Processes	Cellular community - eukaryotes	hsa04530	Tight junction	1/63	170/8790	0.00588235294117647	0.820728291316527	-0.2005349641146	0.709098168234629	1	1	5522	1
+Human Diseases	Infectious disease: viral	hsa05164	Influenza A	1/63	170/8790	0.00588235294117647	0.820728291316527	-0.2005349641146	0.709098168234629	1	1	9407	1
+Human Diseases	Infectious disease: bacterial	hsa05152	Tuberculosis	1/63	176/8790	0.00568181818181818	0.792748917748918	-0.235970779001579	0.721627399500244	1	1	810	1
+Organismal Systems	Development and regeneration	hsa04360	Axon guidance	1/63	183/8790	0.00546448087431694	0.762425188654697	-0.275935485996488	0.735574730798173	1	1	1943	1
+Organismal Systems	Immune system	hsa04062	Chemokine signaling pathway	1/63	191/8790	0.00523560209424084	0.730491149339317	-0.319943476919537	0.750673738445013	1	1	2792	1
+Organismal Systems	Immune system	hsa04613	Neutrophil extracellular trap formation	1/63	192/8790	0.00520833333333333	0.726686507936508	-0.325327281402649	0.752500410671779	1	1	8345	1
+Cellular Processes	Cell motility	hsa04814	Motor proteins	1/63	194/8790	0.00515463917525773	0.719194894452626	-0.336020040887175	0.756114332301064	1	1	10381	1
+Human Diseases	Infectious disease: bacterial	hsa05130	Pathogenic Escherichia coli infection	1/63	199/8790	0.0050251256281407	0.701124670973917	-0.362328307133223	0.764923486070911	1	1	10381	1
+Cellular Processes	Cellular community - eukaryotes	hsa04510	Focal adhesion	1/63	202/8790	0.00495049504950495	0.690711928335691	-0.37783340896793	0.770057875780757	1	1	3381	1
+Human Diseases	Cancer: overview	hsa05203	Viral carcinogenesis	1/63	204/8790	0.00490196078431373	0.683940242763772	-0.388057751381157	0.773419323503063	1	1	8345	1
+Human Diseases	Neurodegenerative disease	hsa05010	Alzheimer disease	2/63	388/8790	0.00515463917525773	0.719194894452626	-0.480658960585148	0.773625408433551	1	1	810/10381	2
+Human Diseases	Infectious disease: viral	hsa05166	Human T-cell leukemia virus 1 infection	1/63	221/8790	0.00452488687782805	0.631329454858867	-0.471603506496125	0.800106244221863	1	1	7015	1
+Environmental Information Processing	Signal transduction	hsa04024	cAMP signaling pathway	1/63	226/8790	0.00442477876106195	0.617361989043405	-0.495121196901737	0.807348830130441	1	1	810	1
+Cellular Processes	Cell motility	hsa04820	Cytoskeleton in muscle cells	1/63	233/8790	0.00429184549356223	0.598814633149397	-0.527314601615479	0.817056384700103	1	1	1301	1
+Organismal Systems	Sensory system	hsa04740	Olfactory transduction	2/63	440/8790	0.00454545454545455	0.634199134199134	-0.668860191018697	0.831038200396389	1	1	143503/810	2
+Human Diseases	Infectious disease: bacterial	hsa05132	Salmonella infection	1/63	248/8790	0.00403225806451613	0.562596006144393	-0.593657993709737	0.836266118792748	1	1	10381	1
+Cellular Processes	Transport and catabolism	hsa04145	Phagocytosis	1/63	252/8790	0.00396825396825397	0.553665910808768	-0.610786981641179	0.841044133029215	1	1	10381	1
+Environmental Information Processing	Signal transduction	hsa04020	Calcium signaling pathway	1/63	253/8790	0.00395256916996047	0.551477507999247	-0.61503434045447	0.842217032961185	1	1	810	1
+Human Diseases	Neurodegenerative disease	hsa05020	Prion disease	1/63	275/8790	0.00363636363636364	0.507359307359307	-0.705199217799775	0.865969843026063	1	1	10381	1
+Human Diseases	Neurodegenerative disease	hsa05022	Pathways of neurodegeneration - multiple diseases	2/63	480/8790	0.00416666666666667	0.581349206349206	-0.801455741798792	0.866050499000308	1	1	810/10381	2
+Human Diseases	Neurodegenerative disease	hsa05016	Huntington disease	1/63	307/8790	0.00325732899022801	0.454474949588956	-0.826640485258955	0.894364900142777	1	1	10381	1
+Human Diseases	Neurodegenerative disease	hsa05014	Amyotrophic lateral sclerosis	1/63	368/8790	0.00271739130434783	0.379140786749482	-1.03375337392928	0.933069513168986	1	1	10381	1
+Metabolism	Carbohydrate metabolism	hsa00010	Glycolysis / Gluconeogenesis	0/63	67/8790	0	0	-0.698090911761296	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00020	Citrate cycle (TCA cycle)	0/63	30/8790	0	0	-0.466139700996479	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00030	Pentose phosphate pathway	0/63	31/8790	0	0	-0.473872059710991	1	1	1		0
+Metabolism	Lipid metabolism	hsa00061	Fatty acid biosynthesis	0/63	18/8790	0	0	-0.360823205190241	1	1	1		0
+Metabolism	Lipid metabolism	hsa00062	Fatty acid elongation	0/63	28/8790	0	0	-0.450282335740191	1	1	1		0
+Metabolism	Lipid metabolism	hsa00071	Fatty acid degradation	0/63	43/8790	0	0	-0.558485862034144	1	1	1		0
+Metabolism	Lipid metabolism	hsa00120	Primary bile acid biosynthesis	0/63	17/8790	0	0	-0.350637139747191	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis	0/63	12/8790	0	0	-0.294510208888931	1	1	1		0
+Metabolism	Lipid metabolism	hsa00140	Steroid hormone biosynthesis	0/63	64/8790	0	0	-0.682165735818333	1	1	1		0
+Metabolism	Energy metabolism	hsa00190	Oxidative phosphorylation	0/63	136/8790	0	0	-0.998547037944975	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00220	Arginine biosynthesis	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Metabolism	Nucleotide metabolism	hsa00230	Purine metabolism	0/63	128/8790	0	0	-0.968285468185677	1	1	1		0
+Metabolism	Nucleotide metabolism	hsa00240	Pyrimidine metabolism	0/63	59/8790	0	0	-0.654789234802633	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00250	Alanine, aspartate and glutamate metabolism	0/63	37/8790	0	0	-0.517880927080613	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00260	Glycine, serine and threonine metabolism	0/63	40/8790	0	0	-0.538559248309318	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00270	Cysteine and methionine metabolism	0/63	53/8790	0	0	-0.620389281567856	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00280	Valine, leucine and isoleucine degradation	0/63	48/8790	0	0	-0.590231979739103	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00310	Lysine degradation	0/63	63/8790	0	0	-0.676776555513082	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00330	Arginine and proline metabolism	0/63	49/8790	0	0	-0.596382647847157	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00340	Histidine metabolism	0/63	22/8790	0	0	-0.398996043166132	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00350	Tyrosine metabolism	0/63	37/8790	0	0	-0.517880927080613	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00360	Phenylalanine metabolism	0/63	16/8790	0	0	-0.340148605845125	1	1	1		0
+Metabolism	Amino acid metabolism	hsa00380	Tryptophan metabolism	0/63	42/8790	0	0	-0.551922090612937	1	1	1		0
+Metabolism	Metabolism of other amino acids	hsa00410	beta-Alanine metabolism	0/63	31/8790	0	0	-0.473872059710991	1	1	1		0
+Metabolism	Metabolism of other amino acids	hsa00430	Taurine and hypotaurine metabolism	0/63	16/8790	0	0	-0.340148605845125	1	1	1		0
+Metabolism	Metabolism of other amino acids	hsa00450	Selenocompound metabolism	0/63	17/8790	0	0	-0.350637139747191	1	1	1		0
+Metabolism	Metabolism of other amino acids	hsa00480	Glutathione metabolism	0/63	57/8790	0	0	-0.643521730430626	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00500	Starch and sucrose metabolism	0/63	36/8790	0	0	-0.51080542169717	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00510	N-Glycan biosynthesis	0/63	57/8790	0	0	-0.643521730430626	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00511	Other glycan degradation	0/63	18/8790	0	0	-0.360823205190241	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00512	Mucin type O-glycan biosynthesis	0/63	36/8790	0	0	-0.51080542169717	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00514	Other types of O-glycan biosynthesis	0/63	49/8790	0	0	-0.596382647847157	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00515	Mannose type O-glycan biosynthesis	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00520	Amino sugar and nucleotide sugar metabolism	0/63	38/8790	0	0	-0.524862642701843	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00531	Glycosaminoglycan degradation	0/63	19/8790	0	0	-0.370731735253948	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	0/63	21/8790	0	0	-0.389800266146621	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00533	Glycosaminoglycan biosynthesis - keratan sulfate	0/63	14/8790	0	0	-0.318143628165109	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	0/63	24/8790	0	0	-0.416785313112056	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00541	Biosynthesis of various nucleotide sugars	0/63	19/8790	0	0	-0.370731735253948	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0/63	30/8790	0	0	-0.466139700996479	1	1	1		0
+Metabolism	Lipid metabolism	hsa00564	Glycerophospholipid metabolism	0/63	104/8790	0	0	-0.871594088681901	1	1	1		0
+Metabolism	Lipid metabolism	hsa00565	Ether lipid metabolism	0/63	51/8790	0	0	-0.608501618003273	1	1	1		0
+Metabolism	Lipid metabolism	hsa00590	Arachidonic acid metabolism	0/63	62/8790	0	0	-0.671345365100153	1	1	1		0
+Metabolism	Lipid metabolism	hsa00591	Linoleic acid metabolism	0/63	30/8790	0	0	-0.466139700996479	1	1	1		0
+Metabolism	Lipid metabolism	hsa00592	alpha-Linolenic acid metabolism	0/63	26/8790	0	0	-0.43385340325949	1	1	1		0
+Metabolism	Lipid metabolism	hsa00600	Sphingolipid metabolism	0/63	55/8790	0	0	-0.632058693445609	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series	0/63	28/8790	0	0	-0.450282335740191	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series	0/63	16/8790	0	0	-0.340148605845125	1	1	1		0
+Metabolism	Glycan biosynthesis and metabolism	hsa00604	Glycosphingolipid biosynthesis - ganglio series	0/63	15/8790	0	0	-0.329328704646091	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00620	Pyruvate metabolism	0/63	49/8790	0	0	-0.596382647847157	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00630	Glyoxylate and dicarboxylate metabolism	0/63	31/8790	0	0	-0.473872059710991	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00640	Propanoate metabolism	0/63	32/8790	0	0	-0.481481979891348	1	1	1		0
+Metabolism	Carbohydrate metabolism	hsa00650	Butanoate metabolism	0/63	27/8790	0	0	-0.442143245914567	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00670	One carbon pool by folate	0/63	38/8790	0	0	-0.524862642701843	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00730	Thiamine metabolism	0/63	15/8790	0	0	-0.329328704646091	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00760	Nicotinate and nicotinamide metabolism	0/63	38/8790	0	0	-0.524862642701843	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00770	Pantothenate and CoA biosynthesis	0/63	21/8790	0	0	-0.389800266146621	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00785	Lipoic acid metabolism	0/63	19/8790	0	0	-0.370731735253948	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00830	Retinol metabolism	0/63	67/8790	0	0	-0.698090911761296	1	1	1		0
+Metabolism	Metabolism of cofactors and vitamins	hsa00860	Porphyrin metabolism	0/63	44/8790	0	0	-0.564974856762697	1	1	1		0
+Metabolism	Metabolism of terpenoids and polyketides	hsa00900	Terpenoid backbone biosynthesis	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Metabolism	Energy metabolism	hsa00920	Sulfur metabolism	0/63	10/8790	0	0	-0.268819185589003	1	1	1		0
+Genetic Information Processing	Translation	hsa00970	Aminoacyl-tRNA biosynthesis	0/63	44/8790	0	0	-0.564974856762697	1	1	1		0
+Metabolism	Xenobiotics biodegradation and metabolism	hsa00980	Metabolism of xenobiotics by cytochrome P450	0/63	73/8790	0	0	-0.728929331204551	1	1	1		0
+Metabolism	Xenobiotics biodegradation and metabolism	hsa00982	Drug metabolism - cytochrome P450	0/63	67/8790	0	0	-0.698090911761296	1	1	1		0
+Metabolism	Xenobiotics biodegradation and metabolism	hsa00983	Drug metabolism - other enzymes	0/63	79/8790	0	0	-0.7585549692838	1	1	1		0
+Metabolism	Lipid metabolism	hsa01040	Biosynthesis of unsaturated fatty acids	0/63	27/8790	0	0	-0.442143245914567	1	1	1		0
+Metabolism	Global and overview maps	hsa01200	Carbon metabolism	0/63	116/8790	0	0	-0.921142466673196	1	1	1		0
+Metabolism	Global and overview maps	hsa01210	2-Oxocarboxylic acid metabolism	0/63	33/8790	0	0	-0.488975178684757	1	1	1		0
+Metabolism	Global and overview maps	hsa01212	Fatty acid metabolism	0/63	57/8790	0	0	-0.643521730430626	1	1	1		0
+Metabolism	Global and overview maps	hsa01230	Biosynthesis of amino acids	0/63	75/8790	0	0	-0.738931966890953	1	1	1		0
+Metabolism	Global and overview maps	hsa01232	Nucleotide metabolism	0/63	85/8790	0	0	-0.787104860258472	1	1	1		0
+Metabolism	Global and overview maps	hsa01240	Biosynthesis of cofactors	0/63	152/8790	0	0	-1.05662945504924	1	1	1		0
+Human Diseases	Drug resistance: antineoplastic	hsa01521	EGFR tyrosine kinase inhibitor resistance	0/63	80/8790	0	0	-0.763384671067481	1	1	1		0
+Human Diseases	Drug resistance: antineoplastic	hsa01523	Antifolate resistance	0/63	30/8790	0	0	-0.466139700996479	1	1	1		0
+Human Diseases	Drug resistance: antineoplastic	hsa01524	Platinum drug resistance	0/63	74/8790	0	0	-0.733947115615311	1	1	1		0
+Genetic Information Processing	Translation	hsa03008	Ribosome biogenesis in eukaryotes	0/63	143/8790	0	0	-1.02433687760034	1	1	1		0
+Genetic Information Processing	Translation	hsa03010	Ribosome	0/63	191/8790	0	0	-1.18713532462929	1	1	1		0
+Genetic Information Processing	Translation	hsa03013	Nucleocytoplasmic transport	0/63	108/8790	0	0	-0.888401955806436	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa03018	RNA degradation	0/63	78/8790	0	0	-0.75369543867231	1	1	1		0
+Genetic Information Processing	Transcription	hsa03020	RNA polymerase	0/63	34/8790	0	0	-0.496356942907752	1	1	1		0
+Genetic Information Processing	Transcription	hsa03022	Basal transcription factors	0/63	43/8790	0	0	-0.558485862034144	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03030	DNA replication	0/63	36/8790	0	0	-0.51080542169717	1	1	1		0
+Genetic Information Processing	Transcription	hsa03040	Spliceosome	0/63	205/8790	0	0	-1.23087598865645	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa03050	Proteasome	0/63	46/8790	0	0	-0.577738567619477	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa03060	Protein export	0/63	31/8790	0	0	-0.473872059710991	1	1	1		0
+Genetic Information Processing	Chromosome	hsa03082	ATP-dependent chromatin remodeling	0/63	115/8790	0	0	-0.917110566967568	1	1	1		0
+Genetic Information Processing	Chromosome	hsa03083	Polycomb repressive complex	0/63	83/8790	0	0	-0.777700347368854	1	1	1		0
+Genetic Information Processing	Information processing in viruses	hsa03250	Viral life cycle - HIV-1	0/63	68/8790	0	0	-0.703321565584276	1	1	1		0
+Genetic Information Processing	Information processing in viruses	hsa03265	Virion - Ebolavirus, Lyssavirus and Morbillivirus	0/63	12/8790	0	0	-0.294510208888931	1	1	1		0
+Genetic Information Processing	Information processing in viruses	hsa03272	Virion - Hepatitis viruses	0/63	48/8790	0	0	-0.590231979739103	1	1	1		0
+Genetic Information Processing	Information processing in viruses	hsa03273	Virion - Lassa virus and SFTS virus	0/63	16/8790	0	0	-0.340148605845125	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03420	Nucleotide excision repair	0/63	62/8790	0	0	-0.671345365100153	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03430	Mismatch repair	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03440	Homologous recombination	0/63	41/8790	0	0	-0.545280841627622	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03450	Non-homologous end-joining	0/63	13/8790	0	0	-0.306553406128033	1	1	1		0
+Genetic Information Processing	Replication and repair	hsa03460	Fanconi anemia pathway	0/63	53/8790	0	0	-0.620389281567856	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04012	ErbB signaling pathway	0/63	85/8790	0	0	-0.787104860258472	1	1	1		0
+Environmental Information Processing	Signaling molecules and interaction	hsa04061	Viral protein interaction with cytokine and cytokine receptor	0/63	98/8790	0	0	-0.845786400903292	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04064	NF-kappa B signaling pathway	0/63	103/8790	0	0	-0.867343684549283	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04066	HIF-1 signaling pathway	0/63	110/8790	0	0	-0.896693453207854	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04068	FoxO signaling pathway	0/63	132/8790	0	0	-0.983525657235204	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04072	Phospholipase D signaling pathway	0/63	148/8790	0	0	-1.04239242251345	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa04120	Ubiquitin mediated proteolysis	0/63	142/8790	0	0	-1.02068997841876	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa04130	SNARE interactions in vesicular transport	0/63	33/8790	0	0	-0.488975178684757	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04136	Autophagy - other	0/63	32/8790	0	0	-0.481481979891348	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04137	Mitophagy - animal	0/63	104/8790	0	0	-0.871594088681901	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04140	Autophagy - animal	0/63	169/8790	0	0	-1.1152495296175	1	1	1		0
+Genetic Information Processing	Folding, sorting and degradation	hsa04141	Protein processing in endoplasmic reticulum	0/63	174/8790	0	0	-1.13195535401324	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04142	Lysosome biogenesis	0/63	249/8790	0	0	-1.36004360149346	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04144	Endocytosis	0/63	249/8790	0	0	-1.36004360149346	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04146	Peroxisome	0/63	82/8790	0	0	-0.772956822775615	1	1	1		0
+Cellular Processes	Transport and catabolism	hsa04148	Efferocytosis	0/63	157/8790	0	0	-1.07417854732692	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04150	mTOR signaling pathway	0/63	156/8790	0	0	-1.07069012206866	1	1	1		0
+NA	NA	hsa04156	Integrated stress response (ISR) signaling pathway	0/63	52/8790	0	0	-0.614473517714563	1	1	1		0
+Cellular Processes	Cell growth and death	hsa04210	Apoptosis	0/63	137/8790	0	0	-1.00226935259866	1	1	1		0
+Organismal Systems	Aging	hsa04211	Longevity regulating pathway	0/63	89/8790	0	0	-0.805597181256672	1	1	1		0
+Organismal Systems	Aging	hsa04213	Longevity regulating pathway - multiple species	0/63	61/8790	0	0	-0.665871136178558	1	1	1		0
+Cellular Processes	Cell growth and death	hsa04215	Apoptosis - multiple species	0/63	32/8790	0	0	-0.481481979891348	1	1	1		0
+Cellular Processes	Cell growth and death	hsa04216	Ferroptosis	0/63	42/8790	0	0	-0.551922090612937	1	1	1		0
+Cellular Processes	Cell growth and death	hsa04217	Necroptosis	0/63	162/8790	0	0	-1.09146536261599	1	1	1		0
+Organismal Systems	Circulatory system	hsa04260	Cardiac muscle contraction	0/63	87/8790	0	0	-0.796402571277966	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04310	Wnt signaling pathway	0/63	178/8790	0	0	-1.14515825886035	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04340	Hedgehog signaling pathway	0/63	56/8790	0	0	-0.637815308434447	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04370	VEGF signaling pathway	0/63	60/8790	0	0	-0.660352797963676	1	1	1		0
+Organismal Systems	Development and regeneration	hsa04380	Osteoclast differentiation	0/63	133/8790	0	0	-0.98730112232789	1	1	1		0
+Environmental Information Processing	Signal transduction	hsa04392	Hippo signaling pathway - multiple species	0/63	29/8790	0	0	-0.458278705596017	1	1	1		0
+Environmental Information Processing	Signaling molecules and interaction	hsa04514	Cell adhesion molecule (CAM) interaction	0/63	157/8790	0	0	-1.07417854732692	1	1	1		0
+Cellular Processes	Cellular community - eukaryotes	hsa04520	Adherens junction	0/63	93/8790	0	0	-0.823690881455163	1	1	1		0
+Organismal Systems	Immune system	hsa04610	Complement and coagulation cascades	0/63	87/8790	0	0	-0.796402571277966	1	1	1		0
+Organismal Systems	Immune system	hsa04611	Platelet activation	0/63	126/8790	0	0	-0.960580065627357	1	1	1		0
+Organismal Systems	Immune system	hsa04612	Antigen processing and presentation	0/63	71/8790	0	0	-0.718792198026071	1	1	1		0
+Organismal Systems	Endocrine system	hsa04614	Renin-angiotensin system	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Organismal Systems	Immune system	hsa04620	Toll-like receptor signaling pathway	0/63	107/8790	0	0	-0.884228497064306	1	1	1		0
+Organismal Systems	Immune system	hsa04621	NOD-like receptor signaling pathway	0/63	183/8790	0	0	-1.1614677685482	1	1	1		0
+Organismal Systems	Immune system	hsa04622	RIG-I-like receptor signaling pathway	0/63	72/8790	0	0	-0.723877928399871	1	1	1		0
+Organismal Systems	Immune system	hsa04623	Cytosolic DNA-sensing pathway	0/63	82/8790	0	0	-0.772956822775615	1	1	1		0
+Organismal Systems	Immune system	hsa04640	Hematopoietic cell lineage	0/63	96/8790	0	0	-0.837015147617881	1	1	1		0
+Organismal Systems	Immune system	hsa04659	Th17 cell differentiation	0/63	106/8790	0	0	-0.880036214472812	1	1	1		0
+Organismal Systems	Immune system	hsa04662	B cell receptor signaling pathway	0/63	82/8790	0	0	-0.772956822775615	1	1	1		0
+Organismal Systems	Immune system	hsa04664	Fc epsilon RI signaling pathway	0/63	68/8790	0	0	-0.703321565584276	1	1	1		0
+Organismal Systems	Immune system	hsa04666	Fc gamma R-mediated phagosome formation	0/63	97/8790	0	0	-0.841411699272363	1	1	1		0
+Organismal Systems	Immune system	hsa04670	Leukocyte transendothelial migration	0/63	116/8790	0	0	-0.921142466673196	1	1	1		0
+Organismal Systems	Immune system	hsa04672	Intestinal immune network for IgA production	0/63	46/8790	0	0	-0.577738567619477	1	1	1		0
+Organismal Systems	Environmental adaptation	hsa04710	Circadian rhythm	0/63	34/8790	0	0	-0.496356942907752	1	1	1		0
+Organismal Systems	Environmental adaptation	hsa04714	Thermogenesis	0/63	234/8790	0	0	-1.31728595004358	1	1	1		0
+Organismal Systems	Nervous system	hsa04721	Synaptic vesicle cycle	0/63	78/8790	0	0	-0.75369543867231	1	1	1		0
+Organismal Systems	Nervous system	hsa04730	Long-term depression	0/63	60/8790	0	0	-0.660352797963676	1	1	1		0
+Cellular Processes	Cell motility	hsa04810	Regulation of actin cytoskeleton	0/63	231/8790	0	0	-1.30858517464447	1	1	1		0
+Organismal Systems	Endocrine system	hsa04911	Insulin secretion	0/63	86/8790	0	0	-0.791766829647516	1	1	1		0
+Organismal Systems	Endocrine system	hsa04913	Ovarian steroidogenesis	0/63	52/8790	0	0	-0.614473517714563	1	1	1		0
+Organismal Systems	Endocrine system	hsa04917	Prolactin signaling pathway	0/63	71/8790	0	0	-0.718792198026071	1	1	1		0
+Organismal Systems	Endocrine system	hsa04918	Thyroid hormone synthesis	0/63	75/8790	0	0	-0.738931966890953	1	1	1		0
+Organismal Systems	Endocrine system	hsa04919	Thyroid hormone signaling pathway	0/63	122/8790	0	0	-0.94499167593171	1	1	1		0
+Organismal Systems	Endocrine system	hsa04920	Adipocytokine signaling pathway	0/63	70/8790	0	0	-0.713671405807429	1	1	1		0
+Organismal Systems	Endocrine system	hsa04923	Regulation of lipolysis in adipocytes	0/63	59/8790	0	0	-0.654789234802633	1	1	1		0
+Organismal Systems	Endocrine system	hsa04927	Cortisol synthesis and secretion	0/63	65/8790	0	0	-0.687513894343765	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04930	Type II diabetes mellitus	0/63	47/8790	0	0	-0.584017967804318	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04931	Insulin resistance	0/63	109/8790	0	0	-0.892556855081372	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04932	Non-alcoholic fatty liver disease	0/63	157/8790	0	0	-1.07417854732692	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04933	AGE-RAGE signaling pathway in diabetic complications	0/63	101/8790	0	0	-0.858782739903673	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04934	Cushing syndrome	0/63	155/8790	0	0	-1.06719110587108	1	1	1		0
+Organismal Systems	Endocrine system	hsa04935	Growth hormone synthesis, secretion and action	0/63	122/8790	0	0	-0.94499167593171	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04936	Alcoholic liver disease	0/63	142/8790	0	0	-1.02068997841876	1	1	1		0
+Human Diseases	Endocrine and metabolic disease	hsa04940	Type I diabetes mellitus	0/63	41/8790	0	0	-0.545280841627622	1	1	1		0
+Organismal Systems	Excretory system	hsa04960	Aldosterone-regulated sodium reabsorption	0/63	38/8790	0	0	-0.524862642701843	1	1	1		0
+Organismal Systems	Excretory system	hsa04961	Endocrine and other factor-regulated calcium reabsorption	0/63	53/8790	0	0	-0.620389281567856	1	1	1		0
+Organismal Systems	Excretory system	hsa04962	Vasopressin-regulated water reabsorption	0/63	44/8790	0	0	-0.564974856762697	1	1	1		0
+Organismal Systems	Excretory system	hsa04964	Proximal tubule bicarbonate reclamation	0/63	23/8790	0	0	-0.407986632362026	1	1	1		0
+Organismal Systems	Excretory system	hsa04966	Collecting duct acid secretion	0/63	27/8790	0	0	-0.442143245914567	1	1	1		0
+Organismal Systems	Digestive system	hsa04972	Pancreatic secretion	0/63	102/8790	0	0	-0.86307333425406	1	1	1		0
+Organismal Systems	Digestive system	hsa04973	Carbohydrate digestion and absorption	0/63	48/8790	0	0	-0.590231979739103	1	1	1		0
+Organismal Systems	Digestive system	hsa04975	Fat digestion and absorption	0/63	43/8790	0	0	-0.558485862034144	1	1	1		0
+Organismal Systems	Digestive system	hsa04976	Bile secretion	0/63	88/8790	0	0	-0.801012540881783	1	1	1		0
+Organismal Systems	Digestive system	hsa04977	Vitamin digestion and absorption	0/63	26/8790	0	0	-0.43385340325949	1	1	1		0
+Organismal Systems	Digestive system	hsa04978	Mineral absorption	0/63	60/8790	0	0	-0.660352797963676	1	1	1		0
+Organismal Systems	Digestive system	hsa04979	Cholesterol metabolism	0/63	52/8790	0	0	-0.614473517714563	1	1	1		0
+Organismal Systems	Digestive system	hsa04980	Cobalamin transport and metabolism	0/63	18/8790	0	0	-0.360823205190241	1	1	1		0
+Organismal Systems	Digestive system	hsa04981	Folate transport and metabolism	0/63	31/8790	0	0	-0.473872059710991	1	1	1		0
+Human Diseases	Neurodegenerative disease	hsa05017	Spinocerebellar ataxia	0/63	144/8790	0	0	-1.02797167800088	1	1	1		0
+Human Diseases	Substance dependence	hsa05030	Cocaine addiction	0/63	49/8790	0	0	-0.596382647847157	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05100	Bacterial invasion of epithelial cells	0/63	78/8790	0	0	-0.75369543867231	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05110	Vibrio cholerae infection	0/63	50/8790	0	0	-0.602471912648792	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05120	Epithelial cell signaling in Helicobacter pylori infection	0/63	70/8790	0	0	-0.713671405807429	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05131	Shigellosis	0/63	251/8790	0	0	-1.36565460325626	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05134	Legionellosis	0/63	56/8790	0	0	-0.637815308434447	1	1	1		0
+Human Diseases	Infectious disease: bacterial	hsa05135	Yersinia infection	0/63	137/8790	0	0	-1.00226935259866	1	1	1		0
+Human Diseases	Infectious disease: parasitic	hsa05140	Leishmaniasis	0/63	73/8790	0	0	-0.728929331204551	1	1	1		0
+Human Diseases	Infectious disease: parasitic	hsa05143	African trypanosomiasis	0/63	36/8790	0	0	-0.51080542169717	1	1	1		0
+Human Diseases	Infectious disease: parasitic	hsa05144	Malaria	0/63	49/8790	0	0	-0.596382647847157	1	1	1		0
+Human Diseases	Infectious disease: parasitic	hsa05145	Toxoplasmosis	0/63	109/8790	0	0	-0.892556855081372	1	1	1		0
+Human Diseases	Infectious disease: viral	hsa05161	Hepatitis B	0/63	163/8790	0	0	-1.09489235200161	1	1	1		0
+Human Diseases	Infectious disease: viral	hsa05162	Measles	0/63	136/8790	0	0	-0.998547037944975	1	1	1		0
+Human Diseases	Infectious disease: viral	hsa05168	Herpes simplex virus 1 infection	0/63	177/8790	0	0	-1.14187069815234	1	1	1		0
+Human Diseases	Infectious disease: viral	hsa05169	Epstein-Barr virus infection	0/63	201/8790	0	0	-1.21852444574315	1	1	1		0
+Human Diseases	Cancer: overview	hsa05204	Chemical carcinogenesis - DNA adducts	0/63	67/8790	0	0	-0.698090911761296	1	1	1		0
+Human Diseases	Cancer: overview	hsa05205	Proteoglycans in cancer	0/63	204/8790	0	0	-1.22779867571409	1	1	1		0
+Human Diseases	Cancer: overview	hsa05208	Chemical carcinogenesis - reactive oxygen species	0/63	225/8790	0	0	-1.29102631440492	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05210	Colorectal cancer	0/63	87/8790	0	0	-0.796402571277966	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05211	Renal cell carcinoma	0/63	69/8790	0	0	-0.708514791107153	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05212	Pancreatic cancer	0/63	77/8790	0	0	-0.748805498103943	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05213	Endometrial cancer	0/63	59/8790	0	0	-0.654789234802633	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05216	Thyroid cancer	0/63	37/8790	0	0	-0.517880927080613	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05217	Basal cell carcinoma	0/63	63/8790	0	0	-0.676776555513082	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05218	Melanoma	0/63	73/8790	0	0	-0.728929331204551	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05220	Chronic myeloid leukemia	0/63	77/8790	0	0	-0.748805498103943	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05221	Acute myeloid leukemia	0/63	68/8790	0	0	-0.703321565584276	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05222	Small cell lung cancer	0/63	93/8790	0	0	-0.823690881455163	1	1	1		0
+Human Diseases	Cancer: specific types	hsa05223	Non-small cell lung cancer	0/63	73/8790	0	0	-0.728929331204551	1	1	1		0
+Human Diseases	Cancer: overview	hsa05230	Central carbon metabolism in cancer	0/63	71/8790	0	0	-0.718792198026071	1	1	1		0
+Human Diseases	Cancer: overview	hsa05231	Choline metabolism in cancer	0/63	99/8790	0	0	-0.850139590167111	1	1	1		0
+Human Diseases	Cancer: overview	hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	0/63	90/8790	0	0	-0.810156922773768	1	1	1		0
+Human Diseases	Immune disease	hsa05310	Asthma	0/63	28/8790	0	0	-0.450282335740191	1	1	1		0
+Human Diseases	Immune disease	hsa05320	Autoimmune thyroid disease	0/63	50/8790	0	0	-0.602471912648792	1	1	1		0
+Human Diseases	Immune disease	hsa05321	Inflammatory bowel disease	0/63	63/8790	0	0	-0.676776555513082	1	1	1		0
+Human Diseases	Immune disease	hsa05330	Allograft rejection	0/63	35/8790	0	0	-0.503632173056952	1	1	1		0
+Human Diseases	Immune disease	hsa05332	Graft-versus-host disease	0/63	38/8790	0	0	-0.524862642701843	1	1	1		0
+Human Diseases	Immune disease	hsa05340	Primary immunodeficiency	0/63	37/8790	0	0	-0.517880927080613	1	1	1		0
+Human Diseases	Cardiovascular disease	hsa05410	Hypertrophic cardiomyopathy	0/63	99/8790	0	0	-0.850139590167111	1	1	1		0
+Human Diseases	Cardiovascular disease	hsa05412	Arrhythmogenic right ventricular cardiomyopathy	0/63	86/8790	0	0	-0.791766829647516	1	1	1		0
+Human Diseases	Cardiovascular disease	hsa05414	Dilated cardiomyopathy	0/63	104/8790	0	0	-0.871594088681901	1	1	1		0
+Human Diseases	Cardiovascular disease	hsa05415	Diabetic cardiomyopathy	0/63	205/8790	0	0	-1.23087598865645	1	1	1		0
+Human Diseases	Cardiovascular disease	hsa05416	Viral myocarditis	0/63	66/8790	0	0	-0.692821981495195	1	1	1		0
