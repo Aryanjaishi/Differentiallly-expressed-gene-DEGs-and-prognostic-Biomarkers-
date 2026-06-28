@@ -1,0 +1,5 @@
+Gene	AUC	CI_lower	CI_upper	Performance
+COL11A1	0.9518	0.9351	0.9685	Excellent
+MMP13	0.8976	0.8732	0.922	Good
+CA9	0.9268	0.905	0.9487	Excellent
+PRAME	0.9227	0.9054	0.94	Excellent
