@@ -1,0 +1,205 @@
+Gene	Degree	Status	logFC	Score_C1	NodeStatus_C1	Cluster_C1	Score_C2	NodeStatus_C2	Cluster_C2	Score_C3	NodeStatus_C3	Cluster_C3
+KRT6C	6	Upregulated	0.5964	5	Clustered	NA	5	Clustered	NA	5	Clustered	NA
+DSG3	6	Upregulated	0.5937	5	Seed	NA	5	Seed	NA	5	Seed	NA
+KRT6A	10	Upregulated	0.6497	4.76190476190476	Clustered	Cluster 7	4.76190476190476	Clustered	Cluster 7	4.76190476190476	Clustered	Cluster 7
+KRT6B	11	Upregulated	0.5924	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA
+KRT16	12	Upregulated	0.6894	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA
+SPRR1B	9	Upregulated	0.6494	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA
+SPRR3	8	Upregulated	0.5554	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA	4.76190476190476	Clustered	NA
+KRT75	5	Upregulated	0.518	4	Clustered	NA	4	Clustered	NA	4	Clustered	NA
+AGER	6	Downregulated	-0.5659	3	Seed	Cluster 5	3	Seed	Cluster 5	3	Seed	Cluster 5
+SERPINB5	3	Upregulated	0.6429	3	Unclustered	Cluster 14	3	Unclustered	Cluster 14	3	Unclustered	Cluster 14
+SBSN	4	Upregulated	0.5174	3	Unclustered	Cluster 3	3	Unclustered	Cluster 3	3	Unclustered	Cluster 3
+MMP11	3	Upregulated	0.5163	3	Unclustered	Cluster 11	3	Unclustered	Cluster 11	3	Unclustered	Cluster 11
+IBSP	5	Upregulated	0.5591	3	Unclustered	NA	3	Unclustered	NA	3	Unclustered	NA
+KISS1R	5	Upregulated	0.6126	3	Unclustered	NA	3	Unclustered	NA	3	Unclustered	NA
+GNGT1	7	Upregulated	0.7453	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+HBA2	3	Downregulated	-0.5029	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+SSTR4	4	Downregulated	-0.5469	3	Unclustered	NA	3	Unclustered	NA	3	Unclustered	NA
+SLC6A4	8	Downregulated	-0.8002	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+FGF10	14	Downregulated	-0.5685	3	Unclustered	NA	3	Unclustered	NA	3	Unclustered	NA
+GAL	5	Upregulated	0.6132	3	Unclustered	NA	3	Unclustered	NA	3	Unclustered	NA
+SCGB1A1	5	Downregulated	-0.6231	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+CHRM1	6	Downregulated	-0.7721	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+SFTPC	7	Downregulated	-0.7344	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+EDN3	7	Downregulated	-0.6609	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+CLDN18	5	Downregulated	-0.6902	3	Clustered	NA	3	Clustered	NA	3	Clustered	NA
+GYPE	5	Downregulated	-0.5321	3	Seed	NA	3	Seed	NA	3	Seed	NA
+CHRNA2	4	Downregulated	-0.6673	2.7	Clustered	Cluster 13	2.7	Clustered	Cluster 13	2.7	Clustered	Cluster 13
+MMP12	4	Upregulated	0.5401	2.7	Unclustered	Cluster 1	2.7	Unclustered	Cluster 1	2.7	Unclustered	Cluster 1
+CHRM2	8	Downregulated	-0.757	2.7	Clustered	Cluster 5	2.7	Clustered	Cluster 5	2.7	Clustered	Cluster 5
+ALAS2	5	Downregulated	-0.5595	2.7	Clustered	Cluster 12	2.7	Clustered	Cluster 12	2.7	Clustered	Cluster 12
+KLK6	4	Upregulated	0.5632	2.7	Unclustered	Cluster 9	2.7	Unclustered	Cluster 9	2.7	Unclustered	Cluster 9
+CSF3	10	Downregulated	-0.5108	2.7	Unclustered	NA	2.7	Unclustered	NA	2.7	Unclustered	NA
+CHRNB4	4	Upregulated	0.5861	2.7	Clustered	NA	2.7	Clustered	NA	2.7	Clustered	NA
+SLC4A1	7	Downregulated	-0.525	2.7	Clustered	NA	2.7	Clustered	NA	2.7	Clustered	NA
+HBA1	4	Downregulated	-0.7087	2.7	Clustered	NA	2.7	Clustered	NA	2.7	Clustered	NA
+SERPINB4	8	Upregulated	0.5576	2.7	Unclustered	NA	2.7	Unclustered	NA	2.7	Unclustered	NA
+COL11A1	6	Upregulated	0.6296	2.4	Unclustered	Cluster 12	2.4	Unclustered	Cluster 12	2.4	Unclustered	Cluster 12
+NPSR1	6	Upregulated	0.5379	2.4	Clustered	Cluster 3	2.4	Clustered	Cluster 3	2.4	Clustered	Cluster 3
+MMP13	7	Upregulated	0.6327	2.14285714285714	Seed	NA	2.14285714285714	Seed	NA	2.14285714285714	Seed	NA
+LHX2	8	Upregulated	0.5882	2	Clustered	Cluster 5	2	Clustered	Cluster 5	2	Clustered	Cluster 5
+FOXE1	3	Upregulated	0.6819	2	Unclustered	Cluster 1	2	Unclustered	Cluster 1	2	Unclustered	Cluster 1
+ZIC2	6	Upregulated	0.7267	2	Seed	Cluster 3	2	Seed	Cluster 3	2	Seed	Cluster 3
+TRIM71	2	Downregulated	-0.5343	2	Clustered	Cluster 10	2	Clustered	Cluster 10	2	Clustered	Cluster 10
+PRAME	3	Upregulated	0.8499	2	Clustered	Cluster 5	2	Clustered	Cluster 5	2	Clustered	Cluster 5
+FAM216B	5	Downregulated	-0.5049	2	Seed	Cluster 3	2	Seed	Cluster 3	2	Seed	Cluster 3
+F11	4	Downregulated	-0.7575	2	Seed	Cluster 13	2	Seed	Cluster 13	2	Seed	Cluster 13
+STRA6	3	Upregulated	0.5086	2	Unclustered	Cluster 1	2	Unclustered	Cluster 1	2	Unclustered	Cluster 1
+H2BC9	2	Upregulated	0.5784	2	Seed	Cluster 1	2	Seed	Cluster 1	2	Seed	Cluster 1
+CPB2	4	Downregulated	-0.7272	2	Clustered	Cluster 11	2	Clustered	Cluster 11	2	Clustered	Cluster 11
+APOH	4	Downregulated	-0.5376	2	Clustered	Cluster 2	2	Clustered	Cluster 2	2	Clustered	Cluster 2
+HMGA2	2	Upregulated	0.6017	2	Seed	NA	2	Seed	NA	2	Seed	NA
+CYP24A1	3	Upregulated	0.538	2	Seed	NA	2	Seed	NA	2	Seed	NA
+SGCG	2	Downregulated	-0.5746	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+GRIA1	9	Downregulated	-0.6923	2	Seed	NA	2	Seed	NA	2	Seed	NA
+HOXC13	3	Upregulated	0.8514	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+PGC	5	Downregulated	-0.5448	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+MAGEA3	2	Upregulated	0.5777	2	Seed	NA	2	Seed	NA	2	Seed	NA
+IL36RN	3	Upregulated	0.7316	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+PITX1	3	Upregulated	0.6799	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+SFRP5	3	Downregulated	-0.5364	2	Seed	NA	2	Seed	NA	2	Seed	NA
+IGF2BP1	2	Upregulated	0.5545	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+IHH	8	Downregulated	-0.6614	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+HHIP	5	Downregulated	-0.5463	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+GPD1	3	Downregulated	-0.5454	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+TERT	4	Upregulated	0.7078	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+CDC25C	2	Upregulated	0.5102	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+GKN2	3	Downregulated	-0.7871	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+FREM3	3	Downregulated	-0.7399	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+TEKT1	3	Downregulated	-0.5074	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+MAGEA4	2	Upregulated	0.5011	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+CACNA1S	5	Downregulated	-0.6214	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+TRIM58	3	Downregulated	-0.518	2	Unclustered	NA	2	Unclustered	NA	2	Unclustered	NA
+C1orf87	2	Downregulated	-0.6286	2	Clustered	NA	2	Clustered	NA	2	Clustered	NA
+MMP3	8	Upregulated	0.53	1.92857142857143	Clustered	NA	1.92857142857143	Clustered	NA	1.92857142857143	Clustered	NA
+MMP1	7	Upregulated	0.503	1.92857142857143	Clustered	NA	1.92857142857143	Clustered	NA	1.92857142857143	Clustered	NA
+CA9	3	Upregulated	0.6409	1.66666666666667	Clustered	Cluster 5	1.66666666666667	Clustered	Cluster 5	1.66666666666667	Clustered	Cluster 5
+HOXC11	3	Upregulated	0.6218	1.66666666666667	Clustered	Cluster 2	1.66666666666667	Clustered	Cluster 2	1.66666666666667	Clustered	Cluster 2
+RETN	8	Downregulated	-0.6131	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+NMU	8	Upregulated	0.57	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA
+NEIL3	3	Upregulated	0.5266	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+TMPRSS11D	4	Upregulated	0.5326	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA
+AGRP	5	Downregulated	-0.6035	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA
+CA4	3	Downregulated	-0.7337	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+HOXC10	4	Upregulated	0.6447	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+HTR3C	3	Downregulated	-0.772	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+ITLN1	4	Downregulated	-0.5948	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+CENPA	4	Upregulated	0.508	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+HTR3A	5	Upregulated	0.5249	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA	1.66666666666667	Clustered	NA
+AGTR2	12	Downregulated	-0.6735	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA	1.66666666666667	Unclustered	NA
+PPBP	4	Downregulated	-0.6137	1.4	Seed	NA	1.4	Seed	NA	1.4	Seed	NA
+TFAP2A	6	Upregulated	0.5159	1.2	Unclustered	Cluster 8	1.2	Unclustered	Cluster 8	1.2	Unclustered	Cluster 8
+FABP4	8	Downregulated	-0.6231	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+IL36G	4	Upregulated	0.6353	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+GRHL3	4	Upregulated	0.5564	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+PF4	6	Downregulated	-0.5207	1.2	Clustered	NA	1.2	Clustered	NA	1.2	Clustered	NA
+GP9	6	Downregulated	-0.6019	1.2	Clustered	NA	1.2	Clustered	NA	1.2	Clustered	NA
+ADH1B	6	Downregulated	-0.5369	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+CALML3	11	Upregulated	0.5243	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+CAV3	5	Downregulated	-0.6777	1.2	Unclustered	NA	1.2	Unclustered	NA	1.2	Unclustered	NA
+ANGPTL7	2	Downregulated	-0.7111	0.666666666666667	Unclustered	Cluster 4	0.666666666666667	Unclustered	Cluster 4	0.666666666666667	Unclustered	Cluster 4
+ADGB	2	Downregulated	-0.5146	0.666666666666667	Unclustered	Cluster 7	0.666666666666667	Unclustered	Cluster 7	0.666666666666667	Unclustered	Cluster 7
+ANKRD1	2	Downregulated	-0.6734	0.666666666666667	Unclustered	Cluster 6	0.666666666666667	Unclustered	Cluster 6	0.666666666666667	Unclustered	Cluster 6
+MYH2	2	Downregulated	-0.5977	0.666666666666667	Unclustered	Cluster 3	0.666666666666667	Unclustered	Cluster 3	0.666666666666667	Unclustered	Cluster 3
+SP8	2	Upregulated	0.6042	0.666666666666667	Unclustered	Cluster 5	0.666666666666667	Unclustered	Cluster 5	0.666666666666667	Unclustered	Cluster 5
+DPP6	2	Downregulated	-0.5197	0.666666666666667	Unclustered	Cluster 2	0.666666666666667	Unclustered	Cluster 2	0.666666666666667	Unclustered	Cluster 2
+GJB6	2	Upregulated	0.6974	0.666666666666667	Unclustered	Cluster 4	0.666666666666667	Unclustered	Cluster 4	0.666666666666667	Unclustered	Cluster 4
+C6orf118	2	Downregulated	-0.5145	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+RBP2	2	Downregulated	-0.5908	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+TNNC1	2	Downregulated	-0.5369	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+POU4F1	2	Upregulated	0.5102	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+NR0B2	2	Downregulated	-0.5278	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+GPR87	2	Upregulated	0.5093	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+LHX5	2	Upregulated	0.5205	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+ADGRF4	2	Upregulated	0.5511	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+ADCY8	2	Downregulated	-0.722	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+HOXB13	2	Upregulated	0.5943	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+PGLYRP3	2	Upregulated	0.6867	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+CLEC3B	2	Downregulated	-0.5088	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+NETO1	2	Upregulated	0.6193	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+CLEC4M	2	Downregulated	-0.6258	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+SCARA5	2	Downregulated	-0.5184	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+RXRG	2	Downregulated	-0.5311	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+OTX1	2	Upregulated	0.5304	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+CHIA	2	Downregulated	-0.5145	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+GABRA3	2	Upregulated	0.7674	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+NRG3	2	Downregulated	-0.5291	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA	0.666666666666667	Unclustered	NA
+PITX2	3	Upregulated	0.867	0.5	Unclustered	Cluster 2	0.5	Unclustered	Cluster 2	0.5	Unclustered	Cluster 2
+PCSK2	3	Downregulated	-0.5082	0.5	Unclustered	Cluster 10	0.5	Unclustered	Cluster 10	0.5	Unclustered	Cluster 10
+CYP17A1	3	Downregulated	-0.5265	0.5	Unclustered	Cluster 8	0.5	Unclustered	Cluster 8	0.5	Unclustered	Cluster 8
+FEZF1	3	Upregulated	0.6242	0.5	Unclustered	Cluster 14	0.5	Unclustered	Cluster 14	0.5	Unclustered	Cluster 14
+RSPO1	3	Downregulated	-0.5892	0.5	Unclustered	Cluster 3	0.5	Unclustered	Cluster 3	0.5	Unclustered	Cluster 3
+MYOC	3	Downregulated	-0.8283	0.5	Unclustered	Cluster 12	0.5	Unclustered	Cluster 12	0.5	Unclustered	Cluster 12
+PI16	3	Downregulated	-0.5682	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+CEACAM8	3	Downregulated	-0.5697	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+SYT4	3	Downregulated	-0.5323	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+GABRQ	3	Upregulated	0.5806	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+TUBB3	3	Upregulated	0.5388	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+KCNA4	3	Downregulated	-0.764	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+CYP1A2	3	Downregulated	-0.7962	0.5	Unclustered	NA	0.5	Unclustered	NA	0.5	Unclustered	NA
+ADRA1A	4	Downregulated	-0.7562	0.4	Unclustered	Cluster 11	0.4	Unclustered	Cluster 11	0.4	Unclustered	Cluster 11
+GPM6A	4	Downregulated	-0.7193	0.4	Unclustered	NA	0.4	Unclustered	NA	0.4	Unclustered	NA
+WIF1	4	Downregulated	-0.593	0.4	Unclustered	NA	0.4	Unclustered	NA	0.4	Unclustered	NA
+AKR1B10	4	Upregulated	0.7212	0.4	Unclustered	NA	0.4	Unclustered	NA	0.4	Unclustered	NA
+PCDH15	5	Downregulated	-0.612	0.333333333333333	Unclustered	Cluster 3	0.333333333333333	Unclustered	Cluster 3	0.333333333333333	Unclustered	Cluster 3
+PADI3	1	Upregulated	0.6109	0	Unclustered	Cluster 9	0	Unclustered	Cluster 9	0	Unclustered	Cluster 9
+CCDC141	1	Downregulated	-0.5008	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3
+ARSH	1	Upregulated	0.5917	0	Unclustered	Cluster 10	0	Unclustered	Cluster 10	0	Unclustered	Cluster 10
+C8B	1	Downregulated	-0.7446	0	Unclustered	Cluster 9	0	Unclustered	Cluster 9	0	Unclustered	Cluster 9
+CST1	1	Upregulated	0.8321	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3
+MCEMP1	1	Downregulated	-0.5795	0	Unclustered	Cluster 2	0	Unclustered	Cluster 2	0	Unclustered	Cluster 2
+IL22RA2	1	Upregulated	0.5184	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1
+ODAM	1	Downregulated	-0.609	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1
+FOLR3	1	Downregulated	-0.5777	0	Unclustered	Cluster 4	0	Unclustered	Cluster 4	0	Unclustered	Cluster 4
+RDM1	1	Upregulated	0.554	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3
+ONECUT1	1	Upregulated	0.588	0	Unclustered	Cluster 14	0	Unclustered	Cluster 14	0	Unclustered	Cluster 14
+SH3GL2	1	Downregulated	-0.6354	0	Unclustered	Cluster 6	0	Unclustered	Cluster 6	0	Unclustered	Cluster 6
+HMGCS2	1	Downregulated	-0.5469	0	Unclustered	Cluster 13	0	Unclustered	Cluster 13	0	Unclustered	Cluster 13
+IL1RAPL2	1	Upregulated	0.5598	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1
+VEGFD	1	Downregulated	-0.5863	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3
+FAM107A	1	Downregulated	-0.5093	0	Unclustered	Cluster 4	0	Unclustered	Cluster 4	0	Unclustered	Cluster 4
+UPK3B	1	Downregulated	-0.5113	0	Unclustered	Cluster 8	0	Unclustered	Cluster 8	0	Unclustered	Cluster 8
+ADGRA1	1	Downregulated	-0.5042	0	Unclustered	Cluster 6	0	Unclustered	Cluster 6	0	Unclustered	Cluster 6
+TMPRSS11A	1	Upregulated	0.5269	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1	0	Unclustered	Cluster 1
+OTC	1	Downregulated	-0.7219	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3	0	Unclustered	Cluster 3
+HOXB9	1	Upregulated	0.6211	0	Unclustered	Cluster 7	0	Unclustered	Cluster 7	0	Unclustered	Cluster 7
+MIOX	1	Upregulated	0.518	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+WFDC12	1	Downregulated	-0.5007	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PGLYRP4	1	Upregulated	0.5114	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+CST4	1	Upregulated	0.5152	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+DMBX1	1	Upregulated	0.6862	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+GPIHBP1	1	Downregulated	-0.5628	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+CMTM5	1	Downregulated	-0.5024	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+AWAT2	1	Downregulated	-0.5127	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+NTNG1	1	Downregulated	-0.5134	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+TRPM8	1	Upregulated	0.5431	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+CASKIN1	1	Upregulated	0.5012	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PNCK	1	Upregulated	0.5087	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+CD5L	1	Downregulated	-0.7544	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+ITLN2	1	Downregulated	-0.822	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+MUCL3	1	Downregulated	-0.5145	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+TMEM132C	1	Downregulated	-0.6582	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+AKR1B15	1	Upregulated	0.6813	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PPP2R2C	1	Upregulated	0.5478	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+OR6N1	1	Downregulated	-0.5508	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+DMRTA2	1	Upregulated	0.6101	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+LHFPL3	1	Downregulated	-0.5739	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+USH1G	1	Upregulated	0.5979	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PADI1	1	Upregulated	0.5823	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+ANKRD66	1	Downregulated	-0.5327	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+CDH19	1	Downregulated	-0.5452	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+ZIC5	1	Upregulated	0.5831	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+RSPO2	1	Downregulated	-0.6042	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+HOXA10	1	Upregulated	0.5469	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+LY6D	1	Upregulated	0.6178	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+LGI3	1	Downregulated	-0.6352	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PLA2G1B	1	Downregulated	-0.6442	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+OVCH1	1	Downregulated	-0.6577	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+TMEM212	1	Downregulated	-0.5399	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+ANGPTL5	1	Downregulated	-0.5164	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+GUCA2A	1	Downregulated	-0.6234	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+PTPN5	1	Downregulated	-0.5355	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+OR2W3	1	Downregulated	-0.5575	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+OR6K3	1	Downregulated	-0.5749	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA
+ZYG11A	1	Upregulated	0.6699	0	Unclustered	NA	0	Unclustered	NA	0	Unclustered	NA

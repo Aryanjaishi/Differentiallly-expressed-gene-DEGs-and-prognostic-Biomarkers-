@@ -1,0 +1,11 @@
+Gene	Rank	Connections	Status	logFC	adj_p	KM_p	AUC	Score
+FGF10	1	11	Downregulated	-0.5685	0	NA	NA	2
+KRT16	2	10	Upregulated	0.6894	0	NA	NA	2
+KRT6A	3	10	Upregulated	0.6497	0	NA	NA	2
+SLC6A4	4	9	Downregulated	-0.8002	0	NA	NA	2
+SPRR1B	5	9	Upregulated	0.6494	0	NA	NA	2
+SYT4	6	8	Downregulated	-0.5323	0	NA	NA	2
+GPM6A	7	8	Downregulated	-0.7193	0	NA	NA	2
+AQP4	8	8	Downregulated	-0.5009	0	NA	NA	2
+CHRM2	9	8	Downregulated	-0.757	0	NA	NA	2
+GRIA1	10	8	Downregulated	-0.6923	0	NA	NA	2

@@ -1,0 +1,5 @@
+Gene	logFC	DEG_Status	Pass_DEG	KM_pval	Pass_KM	HR_Uni	P_Uni	Pass_CoxUni	HR_Multi	P_Multi	Pass_CoxMulti	AUC	Pass_ROC	LUSC_Conn	LUAD_Conn	Pass_PPI	Total_Score
+COL11A1	0.6296	Upregulated	✔	0.1554	✘	1.001	0.9667	✘	0.996	0.7866	✘	0.9518	✔	7	1	✔	3/6
+MMP13	0.6327	Upregulated	✔	0.0465	✔	0.993	0.5991	✘	0.992	0.535	✘	0.8976	✔	9	1	✔	4/6
+CA9	0.6409	Upregulated	✔	0.2405	✘	0.993	0.6648	✘	0.992	0.6184	✘	0.9268	✔	3	1	✔	3/6
+PRAME	0.8499	Upregulated	✔	0.5953	✘	0.999	0.917	✘	0.999	0.9069	✘	0.9227	✔	8	1	✔	3/6

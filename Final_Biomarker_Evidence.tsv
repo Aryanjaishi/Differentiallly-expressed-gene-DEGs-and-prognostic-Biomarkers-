@@ -1,0 +1,5 @@
+Gene	logFC	DEG_adjp	AUC	KM_pval	PPI_connections	Literature	Verdict
+COL11A1	0.629611717855328	1.69153162424985e-25	0.9518	0.1554	6	ECM invasion, cancer fibroblasts	Strong diagnostic biomarker
+MMP13	0.632704363356139	1.14669102342989e-21	0.8976	0.0465	7	Matrix degradation, metastasis	Strong prognostic + diagnostic
+CA9	0.640856659421313	1.70340153196888e-26	0.9268	0.2405	3	Hypoxia marker, HIF-1a signaling	Strong diagnostic biomarker
+PRAME	0.849934342011569	7.36193304354738e-22	0.9227	0.5953	3	Cancer testis antigen, proliferation	Strong diagnostic biomarker
